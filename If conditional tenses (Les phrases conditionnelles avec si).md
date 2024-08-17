@@ -176,13 +176,37 @@ Si = If
 
 - Si tu parles (present), je parlerai (future simple).
   - If you speak, I will speak.
+- Si elle vient (present), nous partirons (future simple).
+  - If she comes, we will leave.
+- Si vous étudiez (present), vous réussirez (future simple).
+  - If you study, you will succeed.
+- Si nous avons le temps (present), nous visiterons le musée (future simple).
+  - If we have time, we will visit the museum.
 
 ## Type II - Hypothetical (Present/Future)
 
 - Si tu parlais (imperfect), je parlerais (conditional present).
   - If you spoke, I would speak.
 
-## Type III - Hypothetical (Past)
+- Si j'avais de l'argent (imperfect), j'achèterais une maison (conditional present).
+  - If I had money, I would buy a house.
+  
+- Si nous étions en France (imperfect), nous visiterions Paris (conditional present).
+  - If we were in France, we would visit Paris.
+
+- Si elle connaissait la réponse (imperfect), elle la dirait (conditional present).
+  - If she knew the answer, she would say it.
+
+### Type III - Hypothetical (Past)
 
 - Si tu avais parlé (pluperfect), j’aurais parlé (past conditional).
   - If you had spoken, I would have spoken.
+
+- Si j'avais su (pluperfect), je serais venu plus tôt (past conditional).
+  - If I had known, I would have come earlier.
+
+- Si nous avions pris le train (pluperfect), nous serions arrivés à l'heure (past conditional).
+  - If we had taken the train, we would have arrived on time.
+
+- Si elle avait étudié (pluperfect), elle aurait réussi l'examen (past conditional).
+  - If she had studied, she would have passed the exam.
