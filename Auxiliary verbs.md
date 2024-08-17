@@ -104,8 +104,6 @@ The future stem (`aur-`) + verb endings.
 | Vous          | alliez      | -iez        |
 | Ils/Elles     | allaient    | -aient      |
 
-This table illustrates how the imperfect tense for "aller" is formed by combining the stem "all-" with the respective imperfect endings.
-
 ### Future Simple (Futur Simple)
 
 The future stem (`ir-`) + verb endings.
