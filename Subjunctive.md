@@ -54,10 +54,8 @@ Examples:
     - J'ai peur que tu ne comprennes pas la situation. (I am afraid that you don’t understand the situation.)
     - Nous craignons que vous ne soyez pas prêts. (We fear that you are not ready.)
     - Nous craignons qu'elle ne comprenne pas. (We fear that she won’t understand.)
-    - Ils ont peur que les enfants se blessent en jouant.
-(They are afraid that the children will hurt themselves while playing.)
-    - Ils ont peur que leur proposition soit rejetée.
-(They are afraid that their proposal will be rejected.)
+    - Ils ont peur que les enfants se blessent en jouant. (They are afraid that the children will hurt themselves while playing.)
+    - Ils ont peur que leur proposition soit rejetée. (They are afraid that their proposal will be rejected.)
 
 - Conjunctions that trigger the subjunctive
   - **Bien que** (although)
@@ -71,13 +69,10 @@ Examples:
     - Je te donne mon numéro pour que tu puisses m'appeler. (I’m giving you my number so that you can call me.)
     - Nous devons partir tôt pour que nous arrivions à l'heure. (We need to leave early so that we arrive on time.)
   - **À moins que** (unless)
-    - Nous n'irons pas au parc à moins qu'il ne fasse beau.
-(We won’t go to the park unless the weather is nice.)
-    - Il ne viendra pas à moins que tu l'invites.
-(He won’t come unless you invite him.)
+    - Nous n'irons pas au parc à moins qu'il ne fasse beau. (We won’t go to the park unless the weather is nice.)
+    - Il ne viendra pas à moins que tu l'invites. (He won’t come unless you invite him.)
   - **Sans que** (without)
-    - Il est parti sans que je le sache.
-(He left without me knowing.)
+    - Il est parti sans que je le sache. (He left without me knowing.)
   - **De peur que / De crainte que** (for fear that)
     - Elle parle doucement de peur que quelqu'un l'entende. (She speaks softly for fear that someone will hear her.)
     - Il a étudié tard de crainte qu'il ne réussisse pas l'examen. (He studied late for fear that he wouldn’t pass the exam.)
